@@ -116,8 +116,7 @@ font-family: var(--fonte-texto);
     text-decoration: none;
     color:var(--cor-primaria);
     font-family: var(--fonte-texto); 
-    gap:16px;
-    display: flex;
+    
 }
 
 .eu{
